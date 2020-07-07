@@ -2,9 +2,7 @@
   <img src="https://github.com/100DaysOfCloud/100DaysOfCloud/blob/master/banner.png?raw=truee">
 </p>
 
-<p align="center">
-🚧  <b>This template is under construction!</b>, PLEASE WAIT for its completion before starting the challenge. 🚧
-</p>
+
 
 ## How to use this template:
 
@@ -15,7 +13,7 @@
 5. Get mini-project ideas from [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 6. Document your daily projects as markdown files that link them to your journey page and with a short summary
 
-## [✍️ Your Name]'s Cloud Journey
+## Karls's Cloud Journey
 
 [✍️ Introduce yourself]
 
@@ -23,8 +21,9 @@
 
 [✍️ Tell us where you want to be at the end of the challenge]
 
-* [✍️ Link to your Twitter]
-* [✍️ Link to your LinkedIn]
+* Follow The Journey on [Instagram](https://instagram.com/cloudkarl)
+* Follow Me on [Twitter](https://twitter.com/mathiasmoberg)
+* Connect With Me on [LinkedIn](https://linkedin.com/in/kmoberg)
 
 ## Stepping out the door
 
@@ -74,7 +73,7 @@
 - [ ] ☁️ 39 >
 - [ ] ☁️40 >
 
-## Trekking the dunes 
+## Trekking the dunes
 
 - [ ] ☁️ 41 >
 - [ ] ☁️ 42 >
