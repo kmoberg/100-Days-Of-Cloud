@@ -9,3 +9,8 @@ I’ll be spending a bit of time each day learning or working with cloud solutio
 
 What am I starting with? Working on a tarting a cloud for beginners meetup group in the Bergen area! More information in the future, but if you’re interested hit me up, should be fun!
 
+
+
+---
+
+<p align="right"><a href="../Day 02">Day 02 →</a></p>
