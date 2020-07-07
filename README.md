@@ -4,22 +4,13 @@
 
 
 
-## How to use this template:
-
-1. Read about the challenge and register at [#100DaysOfCloud](https://100DaysOfCloud.com)
-2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Fork this repo at [100DaysOfCloud/100DaysOfCloud](https://github.com/100DaysOfCloud/100DaysOfCloud/)
-4. Fill in your details where you see this icon  ✍️
-5. Get mini-project ideas from [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
-6. Document your daily projects as markdown files that link them to your journey page and with a short summary
-
 ## Karls's Cloud Journey
 
-[✍️ Introduce yourself]
+Who is Karl? Karl is a Cloud Architect and cloud-native developer based in Bergen, Norway who for the last four years has specialized in Amazon Web Services. He is an AWS Student Ambassador, 2x AWS Certified - as a Solutions Architect- and Developer Associate, and he **loves** to share his knowledge with others! As a result, he is a contributor to many local Meetup groups and has founded the [Bergen Cloud User Group](https://github.com/Bergen-Cloud-User-Group) a user-group where all materials are open-sourced so that the community can use however they want!
 
-[✍️ Tell us why you started this challenge]
+I started this challenge in order to further my understanding of of AWS and to work with technologies that I have not worked with before, and at the end of the challenge, my goal is to have a deeper understanding and feel more comfortable with some of the features I don't deal with day-to-day such as AWS Fargate, and serverless deployments and applications.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+
 
 * Follow The Journey on [Instagram](https://instagram.com/cloudkarl)
 * Follow Me on [Twitter](https://twitter.com/mathiasmoberg)
@@ -155,3 +146,12 @@
 - [ ] ☁️ 99 >
 - [ ] ☁️ 100 >
 
+
+## How to use this template:
+
+1. Read about the challenge and register at [#100DaysOfCloud](https://100DaysOfCloud.com)
+2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
+3. Fork this repo at [100DaysOfCloud/100DaysOfCloud](https://github.com/100DaysOfCloud/100DaysOfCloud/)
+4. Fill in your details where you see this icon  ✍️
+5. Get mini-project ideas from [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+6. Document your daily projects as markdown files that link them to your journey page and with a short summary
