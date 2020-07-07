@@ -2,9 +2,7 @@
   <img src="https://github.com/100DaysOfCloud/100DaysOfCloud/blob/master/banner.png?raw=truee">
 </p>
 
-<p align="center">
-🚧  <b>This template is under construction!</b>, PLEASE WAIT for its completion before starting the challenge. 🚧
-</p>
+
 
 ## How to use this template:
 
@@ -15,7 +13,7 @@
 5. Get mini-project ideas from [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 6. Document your daily projects as markdown files that link them to your journey page and with a short summary
 
-## [✍️ Your Name]'s Cloud Journey
+## Karls's Cloud Journey
 
 [✍️ Introduce yourself]
 
@@ -23,13 +21,15 @@
 
 [✍️ Tell us where you want to be at the end of the challenge]
 
-* [✍️ Link to your Twitter]
-* [✍️ Link to your LinkedIn]
+* Follow The Journey on [Instagram](https://instagram.com/cloudkarl)
+* Follow Me on [Twitter](https://twitter.com/mathiasmoberg)
+* Connect With Me on [LinkedIn](https://linkedin.com/in/kmoberg)
 
 ## Stepping out the door
 
-- [ ] ☁️ 1  >
-- [ ] ☁️ 2  >
+- [x] ☁️ 1  > [Instagram - Day 1](https://www.instagram.com/p/CCPaMb7nknD/)
+- [x] ☁️ 2  > [Instagram - Day 2](https://www.instagram.com/p/CCRu_7NHAzo/)
+- [x] ☁️ 3  > [Instagram - Day 3](https://www.instagram.com/p/CCUf3sdH6WM/)
 - [ ] ☁️ 4  >
 - [ ] ☁️ 5  >
 - [ ] ☁️ 6  >
@@ -42,6 +42,7 @@
 
 - [ ] ☁️ 11 >
 - [ ] ☁️ 12 >
+- [ ] ☁️ 13  >
 - [ ] ☁️ 14 >
 - [ ] ☁️ 15 >
 - [ ] ☁️ 16 >
@@ -54,6 +55,7 @@
 
 - [ ] ☁️ 21 >
 - [ ] ☁️ 22 >
+- [ ] ☁️ 23  >
 - [ ] ☁️ 24 >
 - [ ] ☁️ 25 >
 - [ ] ☁️ 26 >
@@ -66,18 +68,20 @@
 
 - [ ] ☁️ 31 >
 - [ ] ☁️ 32 >
+- [ ] ☁️ 33 >
 - [ ] ☁️ 34 >
 - [ ] ☁️ 35 >
 - [ ] ☁️ 36 >
 - [ ] ☁️ 37 >
 - [ ] ☁️ 38 >
 - [ ] ☁️ 39 >
-- [ ] ☁️40 >
+- [ ] ☁️ 40 >
 
-## Trekking the dunes 
+## Trekking the dunes
 
 - [ ] ☁️ 41 >
 - [ ] ☁️ 42 >
+- [ ] ☁️ 43  >
 - [ ] ☁️ 44 >
 - [ ] ☁️ 45 >
 - [ ] ☁️ 46 >
@@ -90,6 +94,7 @@
 
 - [ ] ☁️ 51 >
 - [ ] ☁️ 52 >
+- [ ] ☁️ 53  >
 - [ ] ☁️ 54 >
 - [ ] ☁️ 55 >
 - [ ] ☁️ 56 >
@@ -102,6 +107,7 @@
 
 - [ ] ☁️ 61 >
 - [ ] ☁️ 62 >
+- [ ] ☁️ 63 >
 - [ ] ☁️ 64 >
 - [ ] ☁️ 65 >
 - [ ] ☁️ 66 >
@@ -114,6 +120,7 @@
 
 - [ ] ☁️ 71 >
 - [ ] ☁️ 72 >
+- [ ] ☁️ 73 >
 - [ ] ☁️ 74 >
 - [ ] ☁️ 75 >
 - [ ] ☁️ 76 >
@@ -126,6 +133,7 @@
 
 - [ ] ☁️ 81 >
 - [ ] ☁️ 82 >
+- [ ] ☁️ 83  >
 - [ ] ☁️ 84 >
 - [ ] ☁️ 85 >
 - [ ] ☁️ 86 >
@@ -138,6 +146,7 @@
 
 - [ ] ☁️ 91 >
 - [ ] ☁️ 92 >
+- [ ] ☁️ 93  >
 - [ ] ☁️ 94 >
 - [ ] ☁️ 95 >
 - [ ] ☁️ 96 >
