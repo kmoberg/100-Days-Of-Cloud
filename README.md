@@ -18,9 +18,9 @@ I started this challenge in order to further my understanding of of AWS and to w
 
 ## Stepping out the door
 
-- [x] ☁️ 1  > [Instagram - Day 1](https://www.instagram.com/p/CCPaMb7nknD/)
-- [x] ☁️ 2  > [Instagram - Day 2](https://www.instagram.com/p/CCRu_7NHAzo/)
-- [x] ☁️ 3  > [Instagram - Day 3](https://www.instagram.com/p/CCUf3sdH6WM/)
+- [x] ☁️ 1  > [Day 1](Day 01/) - [Instagram](https://www.instagram.com/p/CCPaMb7nknD/)
+- [x] ☁️ 2  > [Day 2](Day 02/) - [Instagram](https://www.instagram.com/p/CCRu_7NHAzo/)
+- [x] ☁️ 3  > [Day 3](Day 03/) - [Instagram](https://www.instagram.com/p/CCUf3sdH6WM/)
 - [ ] ☁️ 4  >
 - [ ] ☁️ 5  >
 - [ ] ☁️ 6  >
