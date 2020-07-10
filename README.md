@@ -21,9 +21,9 @@ I started this challenge in order to further my understanding of of AWS and to w
 - [x] ☁️ 1  > [Day 1](Day 01) - [(Instagram)](https://www.instagram.com/p/CCPaMb7nknD/)
 - [x] ☁️ 2  > [Day 2](Day 02) - [(Instagram)](https://www.instagram.com/p/CCRu_7NHAzo/)
 - [x] ☁️ 3  > [Day 3](Day 03) - [(Instagram)](https://www.instagram.com/p/CCUf3sdH6WM/)
-- [x] ☁️ 4  > [Day 4](Day 04) - [(Instagram)]((https://www.instagram.com/p/CCXEjl8HWkK/)
-- [x] ☁️ 5  > [Day 5](Day 05) - [(Instagram)]((https://www.instagram.com/p/CCZupUWnujB/)
-- [ ] ☁️ 6  > [Day 6](Day 06) - [(Instagram)]((https://www.instagram.com/p/CCcOSIenmb2/)
+- [x] ☁️ 4  > [Day 4](Day 04) - [(Instagram)](https://www.instagram.com/p/CCXEjl8HWkK/)
+- [x] ☁️ 5  > [Day 5](Day 05) - [(Instagram)](https://www.instagram.com/p/CCZupUWnujB/)
+- [x] ☁️ 6  > [Day 6](Day 06) - [(Instagram)](https://www.instagram.com/p/CCcOSIenmb2/)
 - [ ] ☁️ 7  >
 - [ ] ☁️ 8  >
 - [ ] ☁️ 9  >
