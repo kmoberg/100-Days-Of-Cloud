@@ -23,7 +23,7 @@ I started this challenge in order to further my understanding of of AWS and to w
 - [x] ☁️ 3  > [Day 3](Day 03) - [(Instagram)](https://www.instagram.com/p/CCUf3sdH6WM/)
 - [x] ☁️ 4  > [Day 4](Day 04) - [(Instagram)]((https://www.instagram.com/p/CCXEjl8HWkK/)
 - [x] ☁️ 5  > [Day 5](Day 05) - [(Instagram)]((https://www.instagram.com/p/CCZupUWnujB/)
-- [ ] ☁️ 6  > [Day 6](Day 06) - [(Instagram)]((https://www.instagram.com/p/)
+- [ ] ☁️ 6  > [Day 6](Day 06) - [(Instagram)]((https://www.instagram.com/p/CCcOSIenmb2/)
 - [ ] ☁️ 7  >
 - [ ] ☁️ 8  >
 - [ ] ☁️ 9  >
