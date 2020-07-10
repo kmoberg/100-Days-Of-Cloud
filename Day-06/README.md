@@ -19,5 +19,5 @@ Also - side note: I’ve been using Adobe Lightroom CC (Cloud) to manage my phot
 
 ---
 
-<p align="left"><a href="../Day 05">← Day 05</a></p>
-<p align="right"><a href="../Day 07">Day  07 →</a></p>
+<p align="left"><a href="../Day-05">← Day 05</a></p>
+<p align="right"><a href="../Day-07">Day 07 →</a></p>

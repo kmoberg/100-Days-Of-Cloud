@@ -12,5 +12,5 @@ The current site is built using React, S3, Lambda, CloudFront and Route53, but t
 
 ---
 
-<p align="left"><a href="../Day 04">← Day 04</a></p>
-<p align="right"><a href="../Day 06">Day 06 →</a></p>
+<p align="left"><a href="../Day-04">← Day 04</a></p>
+<p align="right"><a href="../Day-06">Day 06 →</a></p>
