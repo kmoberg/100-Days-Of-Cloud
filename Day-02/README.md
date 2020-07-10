@@ -11,5 +11,5 @@ ALL materials for the user group is OPEN SOURCE under the MIT license, and anyon
 
 ---
 
-<p align="left"><a href="../Day 01">← Day 01</a></p>
-<p align="right"><a href="../Day 03">Day 03 →</a></p>
+<p align="left"><a href="../Day-01">← Day 01</a></p>
+<p align="right"><a href="../Day-03">Day 03 →</a></p>

@@ -13,4 +13,4 @@ What am I starting with? Working on a tarting a cloud for beginners meetup group
 
 ---
 
-<p align="right"><a href="../Day 02">Day 02 →</a></p>
+<p align="right"><a href="../Day-02">Day 02 →</a></p>

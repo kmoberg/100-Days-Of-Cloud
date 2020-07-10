@@ -13,5 +13,5 @@ Some of the cloud work today has been labbing simple things with AWS IAM, EC2 an
 
 ---
 
-<p align="left"><a href="../Day 02">← Day 02</a></p>
-<p align="right"><a href="../Day 04">Day 04 →</a></p>
+<p align="left"><a href="../Day-02">← Day 02</a></p>
+<p align="right"><a href="../Day-04">Day 04 →</a></p>
