@@ -1,5 +1,5 @@
 # 100 Days of Cloud - Day 06
-![Day](Day.jpeg)
+![Day 6](Day6.jpg)
 
 ## New Terretory
 Day [6/100] of #100DaysOfCode / #100DaysOfCloud and it’s personal projects day 2!
