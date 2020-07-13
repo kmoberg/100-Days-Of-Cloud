@@ -26,7 +26,7 @@ I started this challenge in order to further my understanding of of AWS and to w
 - [x] ☁️ 6  > [Day 6](Day-06/) - [(Instagram)](https://www.instagram.com/p/CCcOSIenmb2/)
 - [x] ☁️ 7  > [Day 7](Day-07/) - [(Instagram)](https://www.instagram.com/p/CCeyNl3HR4W/)
 - [x] ☁️ 8  > [Day 8](Day-08/) - [(Instagram)](https://www.instagram.com/p/CChWEKmgeBn/)
-- [ ] ☁️ 9  >
+- [X] ☁️ 9  > [Day 9](Day-09/) - [(Instagram)](https://www.instagram.com/p/CCj7dSEg_gf/)
 - [ ] ☁️ 10 >
 
 ## Walking down the road
