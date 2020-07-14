@@ -18,16 +18,16 @@ I started this challenge in order to further my understanding of of AWS and to w
 
 ## Stepping out the door
 
-- [x] ☁️ 1  > [Day 1](Day-01/) - [(Instagram)](https://www.instagram.com/p/CCPaMb7nknD/)
-- [x] ☁️ 2  > [Day 2](Day.02/) - [(Instagram)](https://www.instagram.com/p/CCRu_7NHAzo/)
-- [x] ☁️ 3  > [Day 3](Day-03/) - [(Instagram)](https://www.instagram.com/p/CCUf3sdH6WM/)
-- [x] ☁️ 4  > [Day 4](Day-04/) - [(Instagram)](https://www.instagram.com/p/CCXEjl8HWkK/)
-- [x] ☁️ 5  > [Day 5](Day-05/) - [(Instagram)](https://www.instagram.com/p/CCZupUWnujB/)
-- [x] ☁️ 6  > [Day 6](Day-06/) - [(Instagram)](https://www.instagram.com/p/CCcOSIenmb2/)
-- [x] ☁️ 7  > [Day 7](Day-07/) - [(Instagram)](https://www.instagram.com/p/CCeyNl3HR4W/)
-- [x] ☁️ 8  > [Day 8](Day-08/) - [(Instagram)](https://www.instagram.com/p/CChWEKmgeBn/)
-- [X] ☁️ 9  > [Day 9](Day-09/) - [(Instagram)](https://www.instagram.com/p/CCj7dSEg_gf/)
-- [X] ☁️ 10 > [Day 10](Day-10/) - [(Instagram)](https://www.instagram.com/p/CCmcvtQg4ml/)
+- [x] ☁️ 1  > [Day 1](Days/Day-01/) - [(Instagram)](https://www.instagram.com/p/CCPaMb7nknD/)
+- [x] ☁️ 2  > [Day 2](Days/Day.02/) - [(Instagram)](https://www.instagram.com/p/CCRu_7NHAzo/)
+- [x] ☁️ 3  > [Day 3](Days/Day-03/) - [(Instagram)](https://www.instagram.com/p/CCUf3sdH6WM/)
+- [x] ☁️ 4  > [Day 4](Days/Day-04/) - [(Instagram)](https://www.instagram.com/p/CCXEjl8HWkK/)
+- [x] ☁️ 5  > [Day 5](Days/Day-05/) - [(Instagram)](https://www.instagram.com/p/CCZupUWnujB/)
+- [x] ☁️ 6  > [Day 6](Days/Day-06/) - [(Instagram)](https://www.instagram.com/p/CCcOSIenmb2/)
+- [x] ☁️ 7  > [Day 7](Days/Day-07/) - [(Instagram)](https://www.instagram.com/p/CCeyNl3HR4W/)
+- [x] ☁️ 8  > [Day 8](Days/Day-08/) - [(Instagram)](https://www.instagram.com/p/CChWEKmgeBn/)
+- [X] ☁️ 9  > [Day 9](Days/Day-09/) - [(Instagram)](https://www.instagram.com/p/CCj7dSEg_gf/)
+- [X] ☁️ 10 > [Day 10](Days/Day-10/) - [(Instagram)](https://www.instagram.com/p/CCmcvtQg4ml/)
 
 ## Walking down the road
 
