@@ -31,9 +31,9 @@ I started this challenge in order to further my understanding of of AWS and to w
 
 ## Walking down the road
 
-- [ ] ☁️ 11 >
+- [x] ☁️ 11 > [Day 11](Days/Day-11/) - [(Instagram)]()
 - [ ] ☁️ 12 >
-- [ ] ☁️ 13  >
+- [ ] ☁️ 13 >
 - [ ] ☁️ 14 >
 - [ ] ☁️ 15 >
 - [ ] ☁️ 16 >
