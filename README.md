@@ -32,7 +32,7 @@ I started this challenge in order to further my understanding of of AWS and to w
 ## Walking down the road
 
 - [x] ☁️ 11 > [Day 11](Days/Day-11/) - [(Instagram)](https://www.instagram.com/p/CCpJ_h9AZTC/)
-- [ ] ☁️ 12 >
+- [x] ☁️ 12 >
 - [ ] ☁️ 13 >
 - [ ] ☁️ 14 >
 - [ ] ☁️ 15 >
