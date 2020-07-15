@@ -1,5 +1,5 @@
-# 100 Days of Cloud - Day
-![Day](Day.jpeg)
+# 100 Days of Cloud - Day 12
+![Day12](Day12.jpeg)
 
 ## Getting Started!
 
