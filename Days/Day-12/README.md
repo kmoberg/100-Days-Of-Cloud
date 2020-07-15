@@ -5,5 +5,5 @@
 
 ---
 
-<p align="left"><a href="../Day ">← Day </a></p>
-<p align="right"><a href="../Day ">Day  →</a></p>
+<p align="left"><a href="../Day-11">← Day 11</a></p>
+<p align="right"><a href="../Day-13">Day 13 →</a></p>
