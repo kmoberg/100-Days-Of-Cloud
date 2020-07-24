@@ -34,8 +34,8 @@ I started this challenge in order to further my understanding of of AWS and to w
 - [x] ☁️ 11 > [Day 11](Days/Day-11/) - [(Instagram)](https://www.instagram.com/p/CCpJ_h9AZTC/)
 - [x] ☁️ 12 > [Day 12](Days/Day-12/) - [(Instagram)](https://www.instagram.com/p/CCrdttwgoAV/)
 - [x] ☁️ 13 > [Day 13](Days/Day-13/) - [(Instagram)](https://www.instagram.com/cloudkarl)
-- [ ] ☁️ 14 >
-- [ ] ☁️ 15 >
+- [x] ☁️ 14 > [Day 14](Days/Day-14/) - [(Instagram)](https://www.instagram.com/cloudkarl)
+- [x] ☁️ 15 > [Day 15](Days/Day-15/) - [(Instagram)](https://www.instagram.com/cloudkarl)
 - [ ] ☁️ 16 >
 - [ ] ☁️ 17 >
 - [ ] ☁️ 18 >
