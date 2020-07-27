@@ -39,7 +39,7 @@ I started this challenge in order to further my understanding of of AWS and to w
 - [x] ☁️ 16 > [Day 16](Days/Day-16/) - [(Instagram)](https://www.instagram.com/p/CDALcFmAHY1/)
 - [x] ☁️ 17 > [Day 17](Days/Day-17/) - [(Instagram)](https://www.instagram.com/p/CDCvV-1gODL/)
 - [x] ☁️ 18 > [Day 18](Days/Day-18/) - [(Instagram)](https://www.instagram.com/p/CDFYjeDgI0F/)
-- [ ] ☁️ 19 >
+- [x] ☁️ 19 > [Day 19](Days/Day-19/) - [(Instagram)](https://www.instagram.com/cloudkarl/)
 - [ ] ☁️ 20 >
 
 ## Crossing the bridge
